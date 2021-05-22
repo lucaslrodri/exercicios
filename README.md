@@ -1,8 +1,8 @@
 # exercicios
-Uma descrição qualquer
+Segue abaixo a lista de exerícios com o seus arquivos:
 
 
 
-- Exercicio 1
-- Exercicio 2
-- Exercicio 3
+- Exercicio 1 !(www.exemplo.com)
+- Exercicio 2 !(www.exemplo.com)
+- Exercicio 3 !(www.exemplo.com)
